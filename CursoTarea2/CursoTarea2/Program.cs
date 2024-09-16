@@ -15,8 +15,6 @@ namespace CursoTarea2
             double longitud, perimetro;
             double centigrados, fahrenheit;
 
-
-
             while (opcion != 0) 
             
             {
