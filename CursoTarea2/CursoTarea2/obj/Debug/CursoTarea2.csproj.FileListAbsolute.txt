@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\bin\Debug\CursoTarea2.exe.config
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\bin\Debug\CursoTarea2.exe
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\bin\Debug\CursoTarea2.pdb
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\obj\Debug\CursoTarea2.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\obj\Debug\CursoTarea2.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\obj\Debug\CursoTarea2.exe
+C:\Users\sergi\source\repos\CursoTarea2\CursoTarea2\obj\Debug\CursoTarea2.pdb
