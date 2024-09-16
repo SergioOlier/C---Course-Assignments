@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergi\\source\\repos\\CursoTarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08824DD3-CDE4-42D3-A097-704E4C6FD6A9}|CursoTarea3\\CursoTarea3.csproj|c:\\users\\sergi\\source\\repos\\cursotarea3\\cursotarea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08824DD3-CDE4-42D3-A097-704E4C6FD6A9}|CursoTarea3\\CursoTarea3.csproj|solutionrelative:cursotarea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\source\\repos\\CursoTarea3\\CursoTarea3\\Program.cs",
+              "RelativeDocumentMoniker": "CursoTarea3\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\source\\repos\\CursoTarea3\\CursoTarea3\\Program.cs",
+              "RelativeToolTip": "CursoTarea3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:29:41.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

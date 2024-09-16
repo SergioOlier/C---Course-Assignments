@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\bin\Debug\CursoTarea3.exe.config
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\bin\Debug\CursoTarea3.exe
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\bin\Debug\CursoTarea3.pdb
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\obj\Debug\CursoTarea3.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\obj\Debug\CursoTarea3.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\obj\Debug\CursoTarea3.exe
+C:\Users\sergi\source\repos\CursoTarea3\CursoTarea3\obj\Debug\CursoTarea3.pdb
